@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>../../flights.jpg</file>
+        <file>../../Untitled-1.jpg</file>
+        <file>../../Person-walking-over-the-Sahara-Desert.jpg</file>
+        <file>../../download.jpg</file>
+        <file>../../cascade-clouds-cool-wallpaper-210186-900x545.jpg</file>
+        <file>../../download (1).jpg</file>
+    </qresource>
+</RCC>
